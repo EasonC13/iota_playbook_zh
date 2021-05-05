@@ -167,4 +167,6 @@ ID: `12D3KooWLAMAzV9rMuuFLxuxfkaoRmnq5joBZ6B8cazEoHeYQ92k`
 
 之後就可以去 http://your.ip:9311/metrics 監控你的節點狀態囉！
 
+相關指標的意義請參考：[IOTA Hornet Prometheus 用法](https://github.com/EasonC13/iota_playbook_zh/blob/main/plugin/prometheus.md)
+
 > 不過 Prometheus 監控 API，洩漏出的訊息基本上就跟登入後的 Dashboard 相同，他人可以存取到你現在連線的鄰居列表，因此可能會讓你的節點被攻擊的可能性增加。因此請斟酌使用。
