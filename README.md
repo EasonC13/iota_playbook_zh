@@ -5,5 +5,5 @@
 > 我相信一群人絕對比一個人能走得更遠
 
 - [新版 Hornet 安裝教學](https://github.com/EasonC13/iota_playbook_zh/blob/main/tutorial/install_hornet.md)
-- 插件教學
+- Plugin 外掛程式教學
     - [Prometheus 用法](https://github.com/EasonC13/iota_playbook_zh/blob/main/plugin/prometheus.md)
